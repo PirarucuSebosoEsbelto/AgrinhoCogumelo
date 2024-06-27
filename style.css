@@ -23,3 +23,7 @@ body{
     background-color: var(--cor-do-cabeçalho);
     border: 2px solid var(--cor-de-texto);
     }
+
+    .titulo{
+        font-size: xx-large;
+    }
