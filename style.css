@@ -3,6 +3,7 @@ body{
     font-family: "Fira Sans Condensed", sans-serif;
       font-weight: 400;
       font-style: normal;
+      color: #9dff00;
     
     }
     
@@ -10,7 +11,7 @@ body{
     --cor-de-fundo: #c300ff;
     --cor-de-texto: rgb(251, 255, 0);
     --cor-do-cabeçalho: rgb(255, 230, 0);
-    --cinza: #61c2ff;
+    --cinza: #9dff00;
     }
     
     header{
