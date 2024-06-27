@@ -39,3 +39,8 @@ body{
     flex-wrap: nowrap;
     flex-direction: column;
     }
+
+    #cogu{
+        border: 2px solid var(--cor-de-texto);
+        font-size: 300%;
+    }
