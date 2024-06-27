@@ -33,10 +33,6 @@ body{
     .paragrafo{
         font-size: 200%;
     }
-
-    .atencao{
-        display: flex;
-    }
     
     #feio{
         display: flex;
