@@ -7,10 +7,10 @@ body{
     }
     
     :root{
-    --cor-de-fundo: #abbbc5;
-    --cor-de-texto: black;
-    --cor-do-cabeçalho: white;
-    --cinza: #abbbc5;
+    --cor-de-fundo: #73ff00;
+    --cor-de-texto: rgb(251, 255, 0);
+    --cor-do-cabeçalho: rgb(255, 0, 0);
+    --cinza: #61c2ff;
     }
     
     header{
