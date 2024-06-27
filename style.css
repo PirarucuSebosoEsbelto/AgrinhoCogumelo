@@ -7,9 +7,9 @@ body{
     }
     
     :root{
-    --cor-de-fundo: #73ff00;
+    --cor-de-fundo: #c300ff;
     --cor-de-texto: rgb(251, 255, 0);
-    --cor-do-cabeçalho: rgb(255, 0, 0);
+    --cor-do-cabeçalho: rgb(255, 230, 0);
     --cinza: #61c2ff;
     }
     
