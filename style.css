@@ -52,7 +52,7 @@ body{
     footer{
         display: flex;
         background-color: var(--cor-de-fundo);
-        color: black;
+        color: var(--cinza);
         border: 2px solid var(--cor-de-texto);
         margin: 5px 0;
         padding: 15px;
