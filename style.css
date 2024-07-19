@@ -45,10 +45,15 @@ body{
     }
     
     #feio{
-        ddisplay: flex;
+        display: flex;
         flex-direction: column;
         align-items: center;
     }
+    
+
+    .atencao{
+      font-size: 50%;
+
     }
 
     
