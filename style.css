@@ -6,12 +6,7 @@ body{
       color: #9dff00;
     
     }
-    
-    *{
-        margin: 0;
-        padding: 0;
-    }
-
+ 
     :root{
     --cor-de-fundo: #c300ff;
     --cor-de-texto: rgb(251, 255, 0);
@@ -52,7 +47,7 @@ body{
     
 
     .atencao{
-      font-size: 50%;
+      image
 
     }
 
