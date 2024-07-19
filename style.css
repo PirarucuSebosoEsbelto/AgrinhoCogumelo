@@ -51,7 +51,7 @@ body{
 
     footer{
         display: flex;
-        background-color: var(--cor-de-fundo);
+        background-color: rgb(190, 156, 255)
         color: var(--cinza);
         border: 2px solid var(--cor-de-texto);
         margin: 5px 0;
