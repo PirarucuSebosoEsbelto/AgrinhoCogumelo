@@ -26,12 +26,12 @@ body{
     }
 
     .titulo{
-        font-size: 900%;
+        font-size: 200%;
         color: blue;
     }
 
     .paragrafo{
-        font-size: 200%;
+        font-size: 50%;
     }
     
     #feio{
