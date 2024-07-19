@@ -51,7 +51,7 @@ body{
 
     footer{
         display: flex;
-        background-color: white;
+        background-color: var(--cor-de-fundo);
         color: black;
         border: 2px solid var(--cor-de-texto);
         margin: 5px 0;
